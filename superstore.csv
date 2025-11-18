@@ -1,0 +1,16 @@
+OrderID,OrderDate,CustomerID,CustomerName,ProductName,Category,Sales,Profit,Discount
+CA-2016-152156,2016-11-08,C-001,Claire Gute,Apple iPhone 7,Technology,1200,300,0.1
+CA-2016-152156,2016-11-08,C-002,David Smith,HP Laptop,Technology,850,150,0
+CA-2016-138688,2016-06-12,C-003,Michael Brown,Office Chair,Furniture,200,50,0.2
+US-2015-108966,2015-10-11,C-004,Sarah Johnson,Standing Desk,Furniture,450,80,0.15
+CA-2015-115812,2015-06-09,C-005,James Wilson,Logitech Mouse,Technology,25,10,0
+CA-2015-115812,2015-06-09,C-006,Linda Davis,Notebook Paper,Office Supplies,15,5,0
+US-2015-114688,2015-10-11,C-007,Robert Miller,Pencil Set,Office Supplies,8,2,0
+CA-2015-128936,2015-07-16,C-008,Patricia Taylor,Canon Camera,Technology,550,120,0.05
+US-2015-138228,2015-12-01,C-009,Barbara Martinez,Desk Lamp,Furniture,35,10,0
+CA-2016-123589,2016-01-27,C-010,Steven Anderson,Monitor,Technology,200,50,0.1
+US-2015-139567,2015-12-15,C-011,Jennifer Thomas,Pen Set,Office Supplies,12,3,0
+CA-2015-131278,2015-08-29,C-012,William Moore,Desk,Furniture,350,70,0.2
+US-2016-142356,2016-05-21,C-013,Elizabeth Jackson,HP Laptop,Technology,900,180,0.05
+CA-2016-144589,2016-03-15,C-014,Richard White,Apple iPad,Technology,650,130,0
+US-2015-117654,2015-09-12,C-015,Mary Harris,Office Chair,Furniture,220,45,0.1
