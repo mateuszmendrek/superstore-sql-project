@@ -11,9 +11,13 @@ Celem analizy było:
 
 ## Struktura projektu
 /superstore-sql-project
+
 ├── data/ # superstore.csv
+
 ├── sql/ # zapytania SQL (.sql)
+
 ├── screenshots/ # opcjonalnie screeshoty wykresów
+
 └── README.md
 
 ## Jak uruchomić
